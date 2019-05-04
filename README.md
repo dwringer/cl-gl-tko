@@ -135,7 +135,7 @@ that shows how everything may be deployed to a single directory.  On a
 be able to immediately call `(asdf:load-system :cl-gl-tko)` without
 setting up any other files or paths.  A handful of Tk demos have been
 ported to this system, and can be subsequently viewed with 
-`(tk-user:list-demos)`.
+`(tk-user:list-demos)` (these demos do not require Windows or OpenGL).
 
 
 ## License information
