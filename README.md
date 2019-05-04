@@ -1,4 +1,4 @@
-# GL-TK Omni for Common Lisp [Windows-only]
+# [GL-]TK Omni for Common Lisp
 
 
 ## Table of Contents
