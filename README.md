@@ -133,7 +133,9 @@ and all the required system dependencies, and a `package.lisp` file
 that shows how everything may be deployed to a single directory.  On a
 64-bit Windows platform, users can load `package.lisp` and then should
 be able to immediately call `(asdf:load-system :cl-gl-tko)` without
-setting up any other files or paths.
+setting up any other files or paths.  A handful of Tk demos have been
+ported to this system, and can be subsequently viewed with 
+`(tk-user:list-demos)`.
 
 
 ## License information
